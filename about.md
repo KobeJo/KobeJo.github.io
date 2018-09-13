@@ -9,7 +9,7 @@ permalink: /about/
 
 ## About
 
-Skill Set: Java, Python, C++, HTML/CSS/JS
+Skill Set: Java, Python, C++, HTML/CSS/JS<br>
 Also interested in UI/UX design.
 
 ## Career
