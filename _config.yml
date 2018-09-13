@@ -38,5 +38,3 @@ links:
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
-
-remote_theme: thiagorossener/jekflix-template
