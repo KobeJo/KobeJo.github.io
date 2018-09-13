@@ -1,20 +1,21 @@
 # Site Settings
-title: 조대식 개발자 블로그
+title: Kobe Cho 개발자 블로그
 email: eotlr720@naver.com
 description: 잡다한 지식 아카이빙용
 baseurl: ""
 url: "https://kobejo.github.io" # the base hostname & protocol for your site
 google_analytics: # "UA-XXXXXXXX-X"
+locale: ko-KR
 
 # User Settings
-username: Daesik Cho
+username: 
 user_description: Web Developer
 disqus_username: Kobe
 
 # Social Media
 # Remove the item if you don't need it
 github_username: KobeJo
-instagram_username: instagram_username
+instagram_username: jodaesik
 
 # Build settings
 markdown: kramdown
