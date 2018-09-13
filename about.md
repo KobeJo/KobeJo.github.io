@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img itemprop="image" class="img-rounded" src="./assets/img/profile.jpg" alt="내 사진">
+<img itemprop="image" class="img-rounded" src="../assets/img/profile.jpg" alt="내 사진">
 
 ## About
 
