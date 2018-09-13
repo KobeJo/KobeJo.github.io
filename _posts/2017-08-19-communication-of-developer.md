@@ -2,7 +2,7 @@
 layout: post
 title: "개발자와 기획자의 의사소통"
 date: 2018-09-13 12:26:40
-image: 'https://github.com/KobeJo/KobeJo.github.io/blob/master/assets/img/communication.jpg'
+image: 'https://github.com/KobeJo/KobeJo.github.io/blob/master/assets/img/communication.jpg?raw=true'
 description: 효과적인 의사소통 방법
 category: 'communication'
 tags:
