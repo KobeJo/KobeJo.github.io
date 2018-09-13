@@ -1,8 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "플랫폼이란?"
 date:   2018-09-13 21:45:17 +0900
-categories: jekyll update
+categories: "IT Knowledge"
+tags:
+- 플랫폼
+- 지식
+introduction: 플랫폼에 대한 개념과 간단한 설명
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
