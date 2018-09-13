@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "개발자의 의사소통 / 개발자와의 의사소통"
+title: "개발자와 기획자의 의사소통"
 date: 2018-09-13 12:26:40
-image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_fill,h_399,w_760/v1503153729/golpe_ghb84o.jpg'
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+image: '../assets/img/communication.jpg'
+description: 효과적인 의사소통 방법
 category: 'communication'
 tags:
 - communication
 - tips
-introduction: 개발자의 효과적인 의사소통 방법
+introduction: 개발자/기획자의 효과적인 의사소통 방법
 ---
 
 개발자와 기획자는 사고하는 방식과 특성이 다른 것 같습니다. 그렇기 때문에 서로를 이해하고 협업하기 위해서는 커뮤니케이션이 매우 중요합니다. 이 글에서는 왜 기획자와 개발자가 다른 지에 대해서 설명하기 보다 더 좋은 의사소통을 위한 실천적인 방법들을 소개하려고 합니다.
