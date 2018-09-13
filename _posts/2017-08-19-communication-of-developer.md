@@ -2,7 +2,7 @@
 layout: post
 title: "개발자와 기획자의 의사소통"
 date: 2018-09-13 12:26:40
-image: 'https://pixabay.com/ko/%EC%8B%9C%EC%9E%91-%ED%9A%8C%EC%9D%98-%EB%B8%8C%EB%A0%88%EC%9D%B8-%EC%8A%A4%ED%86%A0%EB%B0%8D-%EC%82%AC%EC%97%85-%ED%8C%80%EC%9B%8D-%ED%8C%80-%EC%82%AC%EB%9E%8C%EB%93%A4-%EC%82%AC%EB%AC%B4%EC%8B%A4-594090/'
+image: '/assets/img/communication.jpg'
 description: 효과적인 의사소통 방법
 category: 'communication'
 tags:
