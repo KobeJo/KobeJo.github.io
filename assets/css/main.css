@@ -1029,7 +1029,7 @@ main {
 .post-content ol,
 .post-content iframe {
     width: auto;
-    max-width: 50rem;
+    max-width: 80%;
     float: none;
     display: block;
     margin-right: auto;
